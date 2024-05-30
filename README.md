@@ -2,18 +2,6 @@
 
 # GameStash - React Game Explorer
 
-<details>
-<summary>Table of contents</summary>
-
--   [Overview](#overview)
--   [Technology Stack](#technology-stack)
--   [Getting Started](#getting-started)
--   [Features](#features)
--   [Screenshots](#screenshots)
--   [Link](#link)
-
-</details>
-
 ## Overview
 
 Welcome to GameStash, a React-based website that lets users explore and save their favorite games. The website uses the RAWG Video Games Database API to provide a vast collection of games for users to discover.
