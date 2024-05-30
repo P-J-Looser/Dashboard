@@ -26,26 +26,6 @@ Welcome to GameStash, a React-based website that lets users explore and save the
 - JS
 - RAWG Video Games Database API
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/hemanth110702/GameStash.git
-   cd GameStash
-
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
 
 ## Features
 
